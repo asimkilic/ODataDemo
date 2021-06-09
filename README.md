@@ -12,8 +12,8 @@ Odatayı nugetten projeye ekliyoruz.
 Ekstra yanında birkaç özellik ile geliyor zaten bağımlılıklarında da Microsoft.Data.Odata’yı kullandığını görüyoruz.
 Bir controller ekliyoruz
 
- 
- 
+![Settings Window](https://github.com/asimkilic/ODataDemo/blob/master/ODataDemo/foto1.png)
+
 Databasedeki kayıtlara ulaşmak için bir Get metodu oluşturuyoruz. 
 App_start>webapiconfig.cs ayarlamalarını yapıyoruz
 Postman’de
